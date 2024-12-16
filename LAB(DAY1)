@@ -1,1 +1,26 @@
 
+kubernetes를 활용한 MSA 구축
+
+강사 : 남중구 nowage@gmail.com 010-9797-9872
+https://github.com/Finfra/sreMsa
+구글 드라이브
+https://drive.google.com/drive/folders/1fKCRuDka8opRipwMfA2hai8Z54G3-iv2
+
+http://shorturl.at/oBG6m
+
+spring Bot MSA VS Java MSA
+
+IT Trends
+
+kubernetes 
+
+Platform as a Service
+
+Provisioning -> Inventory
+
+개발환경 구성
+
+• Docker + Kubernetes ← Container Management 
+• Terraform ← Cloud Provisioning 
+• Ansible/Puppet/Chef ← Management 
+• ArgoCD / Jenkins ← CICD 
