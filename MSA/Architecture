@@ -1,1 +1,9 @@
+1. PaaS (Platform as a Service)
+시스템 S/W 제공 (OS, DB, WAS, JDK)
+개발환경 구성의 신속성
 
+2. 클라우드 플랫폼을 위한 인프라 스트럭처 툴
+* Docker + Kubernetes : Container Management
+* Terraform : Cloud Provisioning
+* Ansible/Puppet/Chef : Management
+* ArgoCD/Jenkins : CI/CD
